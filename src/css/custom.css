@@ -17,6 +17,7 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  font-size: 18px;
   font-family: "Inter", sans-serif;
 }
 
